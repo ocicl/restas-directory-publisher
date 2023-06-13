@@ -1,0 +1,11 @@
+* restas-directory-publisher
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/restas-directory-publisher.git
+https://github.com/archimag/restas-directory-publisher.git   |
+| commit  |   |
+| systems | restas-directory-publisher |
+|---------+-------------------------------------------|
+
