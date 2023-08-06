@@ -1,11 +1,7 @@
 * restas-directory-publisher
 
-
-
-7101b58---------+-------------------------------------------|
-7101b58 source  | git:https://github.com/archimag/restas-directory-publisher.git
-https://github.com/archimag/restas-directory-publisher.git   7101b58
-7101b58 commit  |   |
-7101b58 systems | restas-directory-publisher |
-7101b58---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------------|
+| source  | git:https://github.com/archimag/restas-directory-publisher.git |
+| commit  | 7101b58                                                        |
+| systems | restas-directory-publisher                                     |
+|---------+----------------------------------------------------------------|
